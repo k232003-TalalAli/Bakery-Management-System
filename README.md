@@ -10,6 +10,8 @@ It also includes:
 - **Admin interface** for basic management functions.
 - Ability to view orders for the Kitchen Staff.
 
+Learn More in the Documentaion file.
+
 ---
 
 ## 📋 Project Overview
@@ -27,14 +29,5 @@ This project was developed as part of the **Programming Fundamentals** course by
 
 - Works best on **dedicated C language compilers** like **Dev-C++**  
 - ❌ *Not compatible with Visual Studio Code due to configuration limitations with standard C compilers*
-
----
-
-# Features
-
-- User login system  
-- Order placement with itemized billing  
-- Receipt generation using file handling  
-- Admin interface for order tracking and management  
 
 ---

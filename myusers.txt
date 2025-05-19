@@ -1,0 +1,33 @@
+-WalletRs-
+5000
+4500
+52500
+10700
+
+*** ***
+
+-USER/PASS-
+Bilal hello123
+Asif mybestfriend
+tester 123
+Muhammad bhai
+
+
+*** ***
+
+-Feedback-
+Asif rated the service 77/100
+
+Bilal Hassan rated the service 99/100
+
+Muhammad rated the service 89/100
+
+Final tester rated the service 100/100
+
+Hobo rated the service 100/100
+
+Salman rated the service 19/100
+
+Laila rated the service 91/100
+
+Aman rated the service 95/100

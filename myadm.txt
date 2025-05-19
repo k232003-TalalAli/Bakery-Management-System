@@ -1,0 +1,41 @@
+-USER/PASS-
+Talal 123
+Faiq 234
+Sami 345
+*** ***
+
+-PROFIT_EARNED-300400
+
+
+
+-ORDERS FOR THE KITCHEN-
+
+*********************************************************************
+
+	5     Pound(s) Pineapple Cake
+	2     Pound(s) Pineapple Cake
+	1     Crumbly Delights
+
+
+*********************************************************************
+	
+        5     Pound(s) Strawberry Cake
+        1     Crumbly Delights
+        4     Kg Biscuits
+
+*********************************************************************
+	3     Pound(s) Red Velvet Cake
+
+
+*********************************************************************
+	43    Pound(s) Strawberry Cake
+	1     Special Offer
+
+
+*********************************************************************
+	3     Pound(s) Pineapple Cake
+
+*********************************************************************
+	5     Pound(s) Strawberry Cake
+	1     Crumbly Delights
+	5     Small Bread
