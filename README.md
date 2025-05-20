@@ -4,7 +4,8 @@ A simple Bakery Management System built in **C** using **File I/O operations**. 
 
 - Log in  
 - Place orders  
-- Generate receipts  
+- Generate receipts
+- Update/Maintain Digital Wallet
 
 It also includes:
 - **Admin interface** for basic management functions.
